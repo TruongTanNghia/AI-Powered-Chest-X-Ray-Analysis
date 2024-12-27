@@ -6,7 +6,7 @@ This project utilizes AI to analyze chest X-ray images and classify them as "Nor
 ## Features
 - Upload chest X-ray images for analysis
 - AI-powered model to detect abnormalities
-- Flask web app interface for easy interaction
+- Flask web app interface for easy interaction 
 
 ## Libraries and Dependencies
 The project uses the following Python libraries:
