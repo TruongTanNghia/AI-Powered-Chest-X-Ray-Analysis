@@ -2,7 +2,7 @@
 # AI-Powered Chest X-Ray Analysis: Normal or Abnormal?
 
 This project utilizes AI to analyze chest X-ray images and classify them as "Normal" or "Abnormal" using deep learning models. It is built using Python, Flask, and several key libraries for image processing and model inference.
-
+  
 ## Features
 - Upload chest X-ray images for analysis
 - AI-powered model to detect abnormalities
